@@ -8,9 +8,10 @@
 ## Education:
 
 #### 1. [Universitas Pendidikan Indonesia](https://www.upi.edu/) | Undergraduate of Telecommunication System | Purwakarta, Jawa Barat August `2021-Now`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Studying core concepts in telecommunication systems, including signal processing, network infrastructure, and wireless communication technologies.
+   - Collaborating with peers on group projects to solve complex problems in telecommunication engineering.
+   - Head of Administration Departement of UPI Telecommunication System Student Association (HMST)
+
  #### 2. [SMA N 2 Majalaya](https://www.smanmajalaya2.sch.id) | MIPA | Majalaya `2018-2021`
 
 ## Experience:
